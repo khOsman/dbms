@@ -10,8 +10,8 @@
 					<div class="col-sm-8 account-info list">
 						<ul>
 							<li>Logged in as:</li>
-							<li class="user-name">name</li>
-							<li class="user-id">id</li>
+							<li class="user-name">Admin</li>
+							
 						</ul>
 					</div>
 				</div>
@@ -63,13 +63,7 @@
 			</div>
 		</section>
 		
-		<section class= "footer-section">
-			<div class="container">
-				<div>
-				<h4>COPYRIGHT URKIS GROUP 2018</h4>
-				</div>
-			</div>
-		</section>
+		
 
 
 

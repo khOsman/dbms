@@ -8,8 +8,9 @@
     <title>DBMS</title>
   
   <link href="css/bootstrap.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/custom.css" type="text/css">
+  
 	<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css" type="text/css">
+  <link rel="stylesheet" href="css/custom.css" type="text/css">
 	<link rel="stylesheet" href="css/rotating-slider.css" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 

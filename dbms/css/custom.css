@@ -1,5 +1,5 @@
 body{
-	background-image:url(../images/bg.jpg);
+	background-color: #2d3436;
 	background-repeat:no-repeat;
 	background-size:cover;
 	color:white;
@@ -14,11 +14,10 @@ body{
 	padding-top:35px;
 }
 .nav-bar{
-	background-color:#34495e;
 	height:90px;
 	font-size:20px;
-	float: right;
-	
+	width: 100%;
+	background-color:#636e72;
 }
 .nav-bar-list{
 	padding-top:20px;
@@ -34,16 +33,17 @@ body{
 	display:inline;
 }
 .body-section{
+
 	text-align:center;
-	height:100%;
-	position:relative;
+	height:300px;
+	
 	width:100%;
 }
 
 .footer-section{
-	margin-top: 20px;
+	margin-top: 472px;
 	text-align:center;
-	background-color:#34495e;;
+	background-color:#636e72;
 }
 .already{
 	height:60px;
@@ -80,10 +80,13 @@ body{
 
 }
 .form{
-	position:absolute;
+	margin-top:178px;
 	top:5%;
 	right:30%;
 }
+
+
+
 input{
 	color:black;
 }

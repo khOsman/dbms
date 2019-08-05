@@ -65,13 +65,7 @@
 		</section>
 		
 		
-		<section class= "footer-section">
-			<div class="container">
-				<div>
-				<h4>COPYRIGHT URKIS GROUP 2018</h4>
-				</div>
-			</div>
-		</section>
+		
 
 
 

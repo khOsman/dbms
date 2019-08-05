@@ -21,9 +21,7 @@ if(!$conn)
 		
 		echo $universityID." ".$universityyearID." ".$admitted." ".$female." ".$totalSeats;
 
-		/*$sql = "INSERT  INTO admission_stats (Total_seats,Admitted,Female,University_Uni_ID,University_Year_idYear) VALUES ('".$totalSeats."', '".$admitted."', '".$female."','".$universityID."','".$universityyearID."')";*/
-		$sql = "INSERT INTO admission_stats{Total_seats, Admitted, Female, University_Uni_ID, University_Year_idYear}";
-		$sql.= "VALUES('".$totalSeats."', '".$admitted."', '".$female."','".$universityID."','".$universityyearID."')";
+		$sql = "INSERT  INTO admission_stats (Total_seats,Admitted,Female,University_Uni_ID,University_Year_idYear) VALUES ('".$totalSeats."', '".$admitted."', '".$female."','".$universityID."','".$universityyearID."')";
 		
 		$result = mysqli_query($conn, $sql);
 
